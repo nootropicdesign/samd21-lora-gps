@@ -25,7 +25,7 @@ Dependencies:
 ### LoRaWANTestABP
 
 LoRaWAN node that uses the ABP method of connecting to a gateway. While considered less secure, this method connects much faster and is more reliable.
-[See the project description here]().
+[See the project description here](https://nootropicdesign.com/projectlab/2018/10/28/lorawan-end-devices/).
 
 Dependencies:
 
@@ -38,7 +38,7 @@ Dependencies:
 ### LoRaWANTestOTAA
 
 LoRaWAN node that uses the over-the-air activation (OTAA) method of connecting to a gateway.
-[See the project description here]().
+[See the project description here](https://nootropicdesign.com/projectlab/2018/10/28/lorawan-end-devices/).
 
 * [arduino-lmic library](https://github.com/nootropicdesign/arduino-lmic) - LoRaWAN stack for embedded devices. This fork of the library has been modified to support the SPI1 interface used by the SAMD21E.
 * [CayenneLPP library](https://github.com/sabas1080/CayenneLPP) - Cayenne low-power payload for efficient packing of GPS data into LoRaWAN packets
